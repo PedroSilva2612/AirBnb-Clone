@@ -48,4 +48,16 @@
             margin-right: .5rem;
         }
     }
+
+    &__copy{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    &__enlace-copy{
+        color: v.$gris;
+        text-decoration: underline;
+    }
+
 }
+
